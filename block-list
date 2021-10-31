@@ -1,35 +1,4 @@
 !
-! url içinde aşağıdaki kelimeler eşleşirse engeller.
-!
-
-/youtubei/
-/log_event?/
-/doubleclick.net/
-
-/pnue.gvt1.com/
-/pnul.gvt1.com/
-/pnus.gvt1.com/
-/pnuz.gvt1.com/
-
-/r1---sn-nv47lnly/
-/r2---sn-nv47lnly/
-/r3---sn-nv47lnly/
-
-/-pnue.googlevideo.com/
-/-pnul.googlevideo.com/
-/-pnus.googlevideo.com/
-/-pnuz.googlevideo.com/
-
-!
-! çeşitli reklamlar için atlatma yöntemi adresleri
-!
-
-||cloudflare-dns.com^
-||cloudflareapps.com^
-||a.nel.cloudflare.com^
-||dns.google^
-
-!
 ! Engellenen alan adları
 !
 
