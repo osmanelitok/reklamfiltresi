@@ -6,4 +6,4 @@ Dosyayı kendi kullandığım Adguard home için yaptım ama herkes kullanabilir
 | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 | https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/abp.txt
 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
-| https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
+| https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts |
