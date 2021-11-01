@@ -9,4 +9,4 @@ Aşağıdaki filtrelere ek olarak kullanıyorum.
 
 | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
 
-|https://raw.githubusercontent.com/osmanelitok/reklam/main/block-list |
+| https://raw.githubusercontent.com/osmanelitok/reklam/main/block-list 
