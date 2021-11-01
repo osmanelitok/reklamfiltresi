@@ -1,7 +1,7 @@
 # Reklam Engelleme DNS Adresleri
 Türkçe için çeşitli Reklam Engelleme URL Adresleri:
 Dosyayı kendi kullandığım Adguard home için yaptım ama herkes kullanabilir. Eklemek / düzeltmek istediğiniz bir şey olursa yazmaktan çekinmeyin.. 
-Aşağıdaki 3 filtreye ek olarak kullanıyorum.
+Aşağıdaki 4 filtreye ek olarak kullanıyorum.
 
 AdGuard DNS filter | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
