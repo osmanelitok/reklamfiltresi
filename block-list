@@ -81,7 +81,6 @@
 ||adservice.google.com^
 ||analytics.google.com^
 ||bbc.co.uk^
-||clientservices.googleapis.com^
 ||crashlytics.com^
 ||dmcdn.net^
 ||ebay.de^
@@ -114,8 +113,6 @@
 ||trojan-killer.com^
 ||trojan-remover.net^
 ||youku.com^
-||youtube-nocookie.com^
-||youtubei.googleapis.com^
 ||zdbb.net^
 ||s3-eu-west-1.amazonaws.com^
 ||omtrdc.net^
