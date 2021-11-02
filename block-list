@@ -33,10 +33,10 @@
 ! çeşitli reklamlar için atlatma yöntemi adresleri
 !
 
-! ||cloudflare-dns.com^
+# ||cloudflare-dns.com^
 ||cloudflareapps.com^
 ||a.nel.cloudflare.com^
-! ||dns.google^
+# ||dns.google^
 
 !
 ! Engellenen alan adları
