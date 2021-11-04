@@ -8,16 +8,6 @@
 # Son Güncelleme: 1 Kasım 2021
 # ------------------------------------------------------------------------
 
-!
-! url içinde aşağıdaki kelimeler eşleşirse engeller. (youtube için şimdilik bir çok reklamı engelliyor)
-!
-
-/youtubei/
-/log_event?/
-/doubleclick.net/
-
-||redirector.googlevideo.com^
-||manifest.googlevideo.com^
 
 !
 ! çeşitli reklamlar için atlatma yöntemi adresleri
@@ -70,9 +60,9 @@
 ||ads.google.com^
 ||adservice.google.com.tr^
 ||adservice.google.com^
-||analytics.google.com^
 ||bbc.co.uk^
 ||crashlytics.com^
+||doubleclick.net^
 ||ebay.de^
 ||globo.com^
 ||google.ca^
