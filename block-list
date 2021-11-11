@@ -13,10 +13,10 @@
 ! çeşitli reklamlar için atlatma yöntemi adresleri
 !
 
-# ||cloudflare-dns.com^
+||cloudflare-dns.com^
 ||cloudflareapps.com^
 ||a.nel.cloudflare.com^
-# ||dns.google^
+||dns.google^
 
 !
 ! Engellenen alan adları
@@ -55,6 +55,76 @@
 ! deneysel liste
 !
 
+||activity.windows.com^
 ||adservice.google.com.tr^
+||adservice.google.com^
+||ampcid.google.com^
+||analytics.google.com^
+||api.eu-west-1.aiv-delivery.net^
+||app.adjust.com^
+||appcloud.mcafee.com^
+||app-measurement.com^
+||beacons.gvt2.com^
+||browser.events.data.msn.com^
+||c.bing.com^
+||c.evidon.com^
+||c.msn.com^
+||cdn.appdynamics.com^
+||cdn.shortpixel.ai^
+||chimpstatic.com^
+||cookiebot.com^
+||crashlogs.whatsapp.net^
+||crashlyticsreports-pa.googleapis.com^
+||data.microsoft.com^
+||dit.whatsapp.net^
+||edge.activity.windows.com^
+||firebase-settings.crashlytics.com^
+||fls-na.amazon.com^
+||fundingchoicesmessages.google.com^
+||g.jwpsrv.com^
+||geller-pa.googleapis.com^
+||googleads.g.doubleclick.net^
+||googleadservices.com^
+||google-analytics.com^
+||google-public-dns-a.google.com^
+||googletagmanager.com^
+||googletagservices.com^
+||imasdk.googleapis.com^
+||ip-api.com^
+||ipv6.microsoft.com^
+||istatistik.trthaber.com^
+||lightstep.medium.systems^
+||logs.ironsrc.mobi^
+||mc.yandex.md^
+||mobile-1340.api.privacy-center.org^
+||nexusrules.officeapps.live.com^
+||omtrdc.net^
+||onesignal.com^
+||oth.eve.mdt.qq.com^
+||oth.str.mdt.qq.com^
+||outstream.cdn.vidyome.com^
+||plusone.google.com^
+||privacyportal.onetrust.com^
+||pro.ip-api.com^
+||quantcast.mgr.consensu.org^
+||r.mradx.net^
+||redir.metaservices.microsoft.com^
+||rt.applovin.com^
+||s.youtube.com^
+||s0.2mdn.net^
+||s7.addthis.com^
+||sb.scorecardresearch.com^
+||sdk.fra-01.braze.eu^
+||sentry.io^
+||service.game-mode.net^
+||settings.crashlytics.com^
+||skyapi.live.net^
+||slashdot.org^
+||socket.mackolikfeeds.com^
 ||starget.intel.com.tr^
-
+||static.whatshelp.io^
+||statics-marketingsites-eus-ms-com.akamaized.net^
+||tags.tiqcdn.com^
+||telemetry.dailymotion.com^
+||telemetry.microsoft.com^
+||vcs-va.byteoversea.com^
