@@ -3,7 +3,7 @@
 # ------------------------------------------------------------------------
 # Anasayfa: https://github.com/osmanelitok/reklam
 # ------------------------------------------------------------------------
-# Kamu lisansına tabidir, eklemek - çıkarmak - çoğaltmak serbesttir
+# Lisans: GNU GENERAL PUBLIC LICENSE
 # ------------------------------------------------------------------------
 # Son Güncelleme: 11 Kasım 2021
 # ------------------------------------------------------------------------
@@ -17,6 +17,17 @@
 ||cloudflareapps.com^
 ||a.nel.cloudflare.com^
 ||dns.google^
+
+
+
+!
+! URL içinde bulunan kelimeleri engeller
+!
+
+# /telemetry/
+# /adservice/
+
+
 
 !
 ! Engellenen alan adları
@@ -56,32 +67,43 @@
 !
 
 ||activity.windows.com^
+||ad.doubleclick.net^
 ||adservice.google.com.tr^
 ||adservice.google.com^
 ||ampcid.google.com^
 ||analytics.google.com^
 ||api.eu-west-1.aiv-delivery.net^
+||api.mixpanel.com^
 ||app.adjust.com^
+||app.adjust.io^
 ||appcloud.mcafee.com^
 ||app-measurement.com^
 ||beacons.gvt2.com^
+||bid.g.doubleclick.net^
 ||browser.events.data.msn.com^
 ||c.bing.com^
 ||c.evidon.com^
 ||c.msn.com^
 ||cdn.appdynamics.com^
+||cdn.segmentify.com^
 ||cdn.shortpixel.ai^
 ||chimpstatic.com^
+||config.inmobi.com^
+||config.unityads.unity3d.com^
 ||cookiebot.com^
 ||crashlogs.whatsapp.net^
 ||crashlyticsreports-pa.googleapis.com^
+||creativecdn.com^
 ||data.microsoft.com^
+||dcetr8.segmentify.com^
+||dis.eu.criteo.com^
 ||dit.whatsapp.net^
 ||edge.activity.windows.com^
 ||firebase-settings.crashlytics.com^
 ||fls-na.amazon.com^
 ||fundingchoicesmessages.google.com^
 ||g.jwpsrv.com^
+||gatr.hit.gemius.pl^
 ||geller-pa.googleapis.com^
 ||googleads.g.doubleclick.net^
 ||googleadservices.com^
@@ -89,20 +111,28 @@
 ||google-public-dns-a.google.com^
 ||googletagmanager.com^
 ||googletagservices.com^
+||hepsiburada01.webtrekk.net^
 ||imasdk.googleapis.com^
+||inapps.appsflyer.com^
+||interncache-odn.fbcdn.net^
 ||ip-api.com^
 ||ipv6.microsoft.com^
 ||istatistik.trthaber.com^
+||launches.appsflyer.com^
 ||lightstep.medium.systems^
 ||logs.ironsrc.mobi^
 ||mc.yandex.md^
+||mc.yandex.ru^
 ||mobile-1340.api.privacy-center.org^
+||ms.applovin.com^
+||ms.applvn.com^
 ||nexusrules.officeapps.live.com^
 ||omtrdc.net^
 ||onesignal.com^
 ||oth.eve.mdt.qq.com^
 ||oth.str.mdt.qq.com^
 ||outstream.cdn.vidyome.com^
+||pagead2.googlesyndication.com^
 ||plusone.google.com^
 ||privacyportal.onetrust.com^
 ||pro.ip-api.com^
@@ -110,22 +140,36 @@
 ||r.mradx.net^
 ||redir.metaservices.microsoft.com^
 ||rt.applovin.com^
+||rt.applvn.com^
 ||s.youtube.com^
 ||s0.2mdn.net^
 ||s7.addthis.com^
 ||sb.scorecardresearch.com^
 ||sdk.fra-01.braze.eu^
 ||sdkapi.netmera.com^^
+||sdk-events.inner-active.mobi^
 ||sentry.io^
 ||service.game-mode.net^
 ||settings.crashlytics.com^
+||settings-win.data.microsoft.com^
 ||skyapi.live.net^
 ||slashdot.org^
 ||socket.mackolikfeeds.com^
+||ssl.google-analytics.com^
 ||starget.intel.com.tr^
+||static.cloudflareinsights.com^
+||static.criteo.net^
+||static.doubleclick.net^
 ||static.whatshelp.io^
 ||statics-marketingsites-eus-ms-com.akamaized.net^
+||stats.g.doubleclick.net^
 ||tags.tiqcdn.com^
 ||telemetry.dailymotion.com^
 ||telemetry.microsoft.com^
+||tpc.googlesyndication.com^
+||v10.vortex-win.data.microsoft.com^
 ||vcs-va.byteoversea.com^
+||widget.criteo.com^
+
+
+
