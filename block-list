@@ -5,7 +5,7 @@
 # ------------------------------------------------------------------------
 # Kamu lisansına tabidir, eklemek - çıkarmak - çoğaltmak serbesttir
 # ------------------------------------------------------------------------
-# Son Güncelleme: 1 Kasım 2021
+# Son Güncelleme: 11 Kasım 2021
 # ------------------------------------------------------------------------
 
 
@@ -115,6 +115,7 @@
 ||s7.addthis.com^
 ||sb.scorecardresearch.com^
 ||sdk.fra-01.braze.eu^
+||sdkapi.netmera.com^^
 ||sentry.io^
 ||service.game-mode.net^
 ||settings.crashlytics.com^
