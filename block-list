@@ -19,6 +19,14 @@
 #||dns.google^
 
 
+!
+! İzin verilenler
+!
+
+@@||p8zh.adj.st^
+@@||clicks.h.hepsiburada.com^
+@@||eu.spgo.io^
+
 
 !
 ! URL içinde bulunan kelimeleri engeller
