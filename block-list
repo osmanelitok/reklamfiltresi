@@ -75,7 +75,6 @@
 ! deneysel liste
 !
 
-||activity.windows.com^
 ||ad.doubleclick.net^
 ||adservice.google.com.tr^
 ||adservice.google.com^
@@ -87,7 +86,6 @@
 ||app.adjust.io^
 ||appcloud.mcafee.com^
 ||app-measurement.com^
-||beacons.gvt2.com^
 ||bid.g.doubleclick.net^
 ||c.bing.com^
 ||c.evidon.com^
@@ -105,7 +103,6 @@
 ||dcetr8.segmentify.com^
 ||dis.eu.criteo.com^
 ||dit.whatsapp.net^
-||edge.activity.windows.com^
 ||firebase-settings.crashlytics.com^
 ||fls-na.amazon.com^
 ||fundingchoicesmessages.google.com^
