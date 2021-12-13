@@ -88,7 +88,6 @@
 ||app-measurement.com^
 ||beacons.gvt2.com^
 ||bid.g.doubleclick.net^
-||browser.events.data.msn.com^
 ||c.bing.com^
 ||c.evidon.com^
 ||c.msn.com^
@@ -102,7 +101,6 @@
 ||crashlogs.whatsapp.net^
 ||crashlyticsreports-pa.googleapis.com^
 ||creativecdn.com^
-||data.microsoft.com^
 ||dcetr8.segmentify.com^
 ||dis.eu.criteo.com^
 ||dit.whatsapp.net^
@@ -157,7 +155,6 @@
 ||sdk-events.inner-active.mobi^
 ||service.game-mode.net^
 ||settings.crashlytics.com^
-||settings-win.data.microsoft.com^
 ||skyapi.live.net^
 ||slashdot.org^
 ||socket.mackolikfeeds.com^
@@ -173,6 +170,5 @@
 ||telemetry.dailymotion.com^
 ||telemetry.microsoft.com^
 ||tpc.googlesyndication.com^
-||v10.vortex-win.data.microsoft.com^
 ||vcs-va.byteoversea.com^
 ||widget.criteo.com^
