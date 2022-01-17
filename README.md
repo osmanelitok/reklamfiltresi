@@ -19,5 +19,5 @@ AdGuard Mobile ads filter | https://raw.githubusercontent.com/AdguardTeam/Filter
 
 Oisd abp light | https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/abp_light.txt
 
-Reklam Filtresi | https://raw.githubusercontent.com/osmanelitok/reklam/main/block-list 
+Reklam Filtresi | https://raw.githubusercontent.com/osmanelitok/reklamfiltresi/main/block-list
 
