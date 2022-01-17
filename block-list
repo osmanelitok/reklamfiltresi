@@ -5,7 +5,7 @@
 # ------------------------------------------------------------------------
 # Lisans: GNU GENERAL PUBLIC LICENSE
 # ------------------------------------------------------------------------
-# Son Güncelleme: 11 Kasım 2021
+# Son Güncelleme: 17-01-2022
 # ------------------------------------------------------------------------
 
 
@@ -25,6 +25,11 @@
 
 
 @@||clicks.h.hepsiburada.com^
+@@||p8zh.adj.st^
+@@||eu.spgo.io
+@@||click.appcast.io
+@@||app.adjust.com
+
 
 
 !
@@ -73,8 +78,4 @@
 ! deneysel liste
 !
 
-||adservice.google.com.tr^
-||adservice.google.com^
-||googleadservices.com^
-||googletagmanager.com^
-||googletagservices.com^
+
