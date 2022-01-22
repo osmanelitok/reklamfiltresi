@@ -23,12 +23,13 @@
 ! İzin verilenler
 !
 
-
+@@||video.filmizlesene.pw^
 @@||hepsiburada.com^
 @@||adj.st^
-@@||spgo.io
-@@||appcast.io
-@@||adjust.com
+@@||spgo.io^
+@@||appcast.io^
+@@||adjust.com^
+@@||rdrtr.com^
 
 
 
@@ -36,8 +37,8 @@
 ! URL içinde bulunan kelimeleri engeller
 !
 
-# /telemetry/
-# /adservice/
+#/telemetry/
+#/adservice/
 
 
 
