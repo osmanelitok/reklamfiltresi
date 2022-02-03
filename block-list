@@ -5,7 +5,7 @@
 # ------------------------------------------------------------------------
 # Lisans: GNU GENERAL PUBLIC LICENSE
 # ------------------------------------------------------------------------
-# Son Güncelleme: 17-01-2022
+# Son Güncelleme: 02-02-2022
 # ------------------------------------------------------------------------
 
 
@@ -45,7 +45,6 @@
 
 
 
-
 !
 ! Engellenen alan adları
 !
@@ -82,113 +81,16 @@
 
 
 !
-! deneysel liste
-!
-
-
-||admatic.mgr.consensu.org^
-||analytics.twitter.com^
-||api.eu-west-1.aiv-delivery.net^
-||api.revenuecat.com^
-||api.sec.intl.miui.com^
-||api.setting.intl.miui.com^
-||app.hps.im^
-||app-measurement.com^
-||authbe.sec.intl.miui.com^
-||beautyplus-aws.meitudata.com^
-||buttons-config.sharethis.com^
-||c.bing.com^
-||c.evidon.com^
-||c.riskified.com^
-||cdn.appdynamics.com^
-||cdn.braze.eu^
-||cdn.netmera-web.com^
-||cdn.onesignal.com^
-||cdn.optimizely.com^
-||cdn-settings.appsflyersdk.com^
-||clickserve.dartsearch.net^
-||collector.xhwide3.com^
-||collector.xhwide4.com^
-||cookie-cdn.cookiepro.com^
-||cx.ssacdn.com^
-||data.sec.intl.miui.com^
-||dcetr8.segmentify.com^
-||diromalxx.com^
-||dmxleo.dailymotion.com^
-||entitlements.jwplayer.com^
-||firebase-settings.crashlytics.com^
-||flash.sec.intl.miui.com^
-||geolocation.onetrust.com^
-||glitter.services.disqus.com^
-||go4s.biz^
-||go5s.biz^
-||hwconfig.gcloudcs.com^
-||i.cdnpark.com^
-||ingest.sentry.io^
-||launches.appsflyer.com^
-||logs.ironsrc.mobi^
-||mc.yandex.com.tr^
-||mc.yandex.md^
-||device.marketingcloudapis.com^
-||media.richrelevance.com^
-||naturaleddiscount.com^
-||oth.eve.mdt.qq.com^
-||oth.str.mdt.qq.com^
-||pingjs.qq.com^
-||platform.ssacdn.com^
-||platform-api.sharethis.com^
-||rum-collector-2.pingdom.net^
-||rum-static.pingdom.net^
-||s.click.aliexpress.com^
-||s0.2mdn.net^
-||s7.addthis.com^
-||scripts.linkz.net^
-||sdk.fra-01.braze.eu^
-||sdk.split.io^
-||sdkapi.netmera.com^
-||secured.netflix.com^
-||sessions.bugsnag.com^
-||settings.crashlytics.com^
-||snap.licdn.com^
-||src.ebay-us.com^
-||starget.intel.com^
-||startup.mobile.yandex.net^
-||static.addtoany.com^
-||static.atgsvcs.com^
-||static.narrativ.com^
-||statics-marketingsites-eus-ms-com.akamaized.net^
-||surveygizmobeacon.s3.amazonaws.com^
-||tags.tiqcdn.com^
-||tags-eu.tiqcdn.com^
-||tempest.services.disqus.com^
-||tx.n11.com^
-||v.ssacdn.com^
-||w.sharethis.com^
-||wa.appsflyer.com^
-||widgets.outbrain.com^
-||datadoghq-browser-agent.com^
-||jqueryscript.net^
-
-
-
-
-
-
-!
 ! google
 !
 
-||safeframe.googlesyndication.com^
-||ade.googlesyndication.com^
+
 ||adservice.google.com^
 ||adservice.google.com.eg^
 ||adservice.google.com.tr^
 ||adservice.google.es^
 ||analytics.google.com^
-||crashlyticsreports-pa.googleapis.com^
-||firebaselogging.googleapis.com^
 ||googletagmanager.com^
-||marketingplatform.google.com^
 ||googletagservices.com^
 
 
@@ -212,5 +114,11 @@
 
 
 
+!
+! deneysel liste
+!
+
+
+||cookie-cdn.cookiepro.com^
 
 
