@@ -5,26 +5,15 @@
 # ------------------------------------------------------------------------
 # Lisans: GNU GENERAL PUBLIC LICENSE
 # ------------------------------------------------------------------------
-# Son Güncelleme: 02-02-2022
+# Son Güncelleme: 22-02-2022
 # ------------------------------------------------------------------------
 
-
-!
-! çeşitli reklamlar için atlatma yöntemi adresleri
-!
-
-#||cloudflare-dns.com^
-#||cloudflareapps.com^
-#||a.nel.cloudflare.com^
-#||dns.google^
 
 
 !
 ! İzin verilenler
 !
 
-@@||video.filmizlesene.pw^
-@@||hepsiburada.com^
 @@||adj.st^
 @@||spgo.io^
 @@||appcast.io^
@@ -32,93 +21,5 @@
 @@||rdrtr.com^
 
 
-
-
-
-
-!
-! URL içinde bulunan kelimeleri engeller
-!
-
-/telemetry/
-/adservice/
-
-
-
-!
-! Engellenen alan adları
-!
-
-||0vz0m14xq3cybivppjqmjjw1mh.com^
-||1zcw5rps15xzuz5iohte2n5avf.com^
-||24wdollweidrqwmkl3qmpknvae.com^
-||3cp01exqkgauimk5ohq42eqxrd.com^
-||dftbno2xziqksg3xoisoxdfxlg.com^
-||eftcoy3sikvqkeyw05tesolf5e.com^
-||fy4y5woqebi5vfjhasrkvl2nqb.com^
-||gnb4wccumnrnnd4abfqclqirmb.com^
-||hdgsvdcvwdagltg04krgdcxccg.com^
-||hksnokksr544f54uq0qwe1e4xc.com^
-||hniuktfxv3luq5orezskh5jc4a.com^
-||hw4th4craaj5mw0xhnriwssyea.com^
-||je4ry0jxzkesk25eakqa1zhkrf.com^
-||knhk0elriucvjrkmefs2lrtedg.com^
-||lcdfxpsvdfosp51nhcru1qykge.com^
-||m2x0ioyxiqh4efcvh1rshcgvuh.com^
-||mpfukviv0fn51o5vdsti4rhcub.com^
-||nl402c2v55dt5z40imsyfmstme.com^
-||rrhki22sra0kctmi5yr232rkmf.com^
-||s0uvkkss4h5ncunpcdtwqhelcf.com^
-||skvnucvsyn0g2fsdlsqy5whuhc.com^
-||srhmm4us3hgnrhlhu5sgmntwnc.com^
-||t3puan3srt31zat3zarmxy5ved.com^
-||vziv3h3xvvx0actig4toibs1xh.com^
-||xochjwauehhb5atka2taeazvrb.com^
-||y4fxuxfvq3vrnk1nayqooogljc.com^
-||yn2zknmuqg4h5axi2ssgctqkme.com^
-||zkf5yl1tkhourswq0sqweiazzb.com^
-
-
-
-!
-! google
-!
-
-
-||adservice.google.com^
-||adservice.google.com.eg^
-||adservice.google.com.tr^
-||adservice.google.es^
-||analytics.google.com^
-||googletagmanager.com^
-||googletagservices.com^
-
-
-!
-! microsoft
-!
-
-
-||redir.metaservices.microsoft.com^
-||spynet2.microsoft.com^
-||spynetalt.microsoft.com^
-||target.microsoft.com^
-||watson.microsoft.com^
-||watson.telemetry.microsoft.com^
-
-||cache.datamart.windows.com^
-
-||nexus.officeapps.live.com^
-||nexusrules.officeapps.live.com^
-||fp.measure.office.com^
-
-
-
-!
-! deneysel liste
-!
-
-
-||cookie-cdn.cookiepro.com^
 
 
