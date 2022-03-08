@@ -3,11 +3,11 @@ Türkçe için çeşitli Reklam Engelleme URL Adresleri:
 Dosyayı kendi kullandığım Adguard home için yaptım ama herkes kullanabilir. Eklemek / düzeltmek istediğiniz bir şey olursa yazmaktan çekinmeyin.. 
 Aşağıdaki filtrelere ek olarak kullanıyorum.
 
-AdGuard Turkish filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
-
-AdGuard DNS filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
+AdGuard DNS filter | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 Reklam Filtresi | https://raw.githubusercontent.com/osmanelitok/reklamfiltresi/main/block-list.txt
+
+AdGuard Turkish filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
 
 ----------------
 
