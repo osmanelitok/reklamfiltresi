@@ -14,8 +14,8 @@
 ! Çeşitli reklamlar için atlatma yöntemi adresleri
 !
 
-/dns./
-@@||nextdns.io^
+#/dns./
+#@@||nextdns.io^
 
 #||dns.google^
 #||cloudflare-dns.com^
