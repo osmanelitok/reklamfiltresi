@@ -15,7 +15,10 @@
 !
 
 
-/dns./
+||dns.google^
+||cloudflare-dns.com^
+||dns.adguard.com
+||dns.quad9.net^
 
 
 
