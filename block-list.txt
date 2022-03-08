@@ -28,8 +28,8 @@
 ! URL içinde bulunan kelimeleri engeller
 !
 
-/telemetry/
-/adservice/
+#/telemetry/
+#/adservice/
 
 
 !
