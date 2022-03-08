@@ -7,7 +7,7 @@ AdGuard Turkish filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRe
 
 AdGuard DNS filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
 
-Reklam Filtresi | https://raw.githubusercontent.com/osmanelitok/reklamfiltresi/main/block-list
+Reklam Filtresi | https://raw.githubusercontent.com/osmanelitok/reklamfiltresi/main/block-list.txt
 
 ----------------
 
