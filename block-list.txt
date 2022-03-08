@@ -1,0 +1,41 @@
+
+# Osman Elitok Türkiye için reklam engelleme listesi
+# ------------------------------------------------------------------------
+# Anasayfa: https://github.com/osmanelitok/reklam
+# ------------------------------------------------------------------------
+# Lisans: GNU GENERAL PUBLIC LICENSE
+# ------------------------------------------------------------------------
+# Son Güncelleme: 22-02-2022
+# ------------------------------------------------------------------------
+
+
+
+!
+! Çeşitli reklamlar için atlatma yöntemi adresleri
+!
+
+
+/dns./
+
+
+!
+! URL içinde bulunan kelimeleri engeller
+!
+
+/telemetry/
+/adservice/
+
+
+!
+! İzin verilenler
+!
+
+@@||adj.st^
+@@||spgo.io^
+@@||appcast.io^
+@@||adjust.com^
+@@||rdrtr.com^
+
+
+
+
