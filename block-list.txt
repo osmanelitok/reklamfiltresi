@@ -14,11 +14,13 @@
 ! Çeşitli reklamlar için atlatma yöntemi adresleri
 !
 
+/dns./
+@@||nextdns.io^
 
-||dns.google^
-||cloudflare-dns.com^
-||dns.adguard.com
-||dns.quad9.net^
+#||dns.google^
+#||cloudflare-dns.com^
+#||dns.adguard.com
+#||dns.quad9.net^
 
 
 
