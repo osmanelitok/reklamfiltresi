@@ -24,6 +24,7 @@
 @@||dns.adguard.com^
 @@||dns.msftncsi.com^
 
+
 ||a.nel.cloudflare.com^
 ||cloudflare-dns.com^
 ||23-94-60-240-host.colocrossing.com^
@@ -40,6 +41,7 @@
 ||dns.chi1.speakeasy.net^
 ||dns.dfw1.speakeasy.net^
 ||dns.directcom.com^
+||dns.cleanbrowsing.org^
 ||dns.google^
 ||dns.lax1.speakeasy.net^
 ||dns.nyc1.speakeasy.net^
