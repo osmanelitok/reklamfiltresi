@@ -121,8 +121,12 @@
 ! URL içinde bulunan kelimeleri engeller
 !
 
-#/telemetry/
-#/adservice/
+/telemetry.*/
+/telemetry*.*/
+/*telemetry.*/
+/adservice.*/
+/adservice*.*/
+/*adservice.*/
 
 
 !
