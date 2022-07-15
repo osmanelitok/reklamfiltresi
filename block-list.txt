@@ -14,15 +14,15 @@
 ! Çeşitli reklamlar için atlatma yöntemi adresleri
 !
 
-/dns.*/
-/dns*.*/
-/*dns.*/
+#/dns.*/
+#/dns*.*/
+#/*dns.*/
 
 
-@@||nextdns.io^
-@@||b.cdnst.net^
-@@||dns.adguard.com^
-@@||dns.msftncsi.com^
+#@@||nextdns.io^
+#@@||b.cdnst.net^
+#@@||dns.adguard.com^
+#@@||dns.msftncsi.com^
 
 
 ||a.nel.cloudflare.com^
@@ -34,7 +34,9 @@
 ||bos.speakeasy.net^
 ||bvrt-dns-trial.beaverton.or.bverton.comcast.net^
 ||c.resolvers.level3.net^
-||cleanbrowsing.org^
+||doh.cleanbrowsing.org^
+||cdn.cleanbrowsing.org^
+||dns.cleanbrowsing.org^
 ||cdn-ec-chi-015-03.chicago201.il.chicago.comcast.net^
 ||d.resolvers.level3.net^
 ||den.speakeasy.net^
@@ -125,12 +127,12 @@
 ! URL içinde bulunan kelimeleri engeller
 !
 
-/telemetry.*/
-/telemetry*.*/
-/*telemetry.*/
-/adservice.*/
-/adservice*.*/
-/*adservice.*/
+#/telemetry.*/
+#/telemetry*.*/
+#/*telemetry.*/
+#/adservice.*/
+#/adservice*.*/
+#/*adservice.*/
 
 
 !
