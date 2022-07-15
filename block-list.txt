@@ -22,6 +22,7 @@
 @@||dns.adguard.com^
 @@||dns.msftncsi.com^
 
+||a.nel.cloudflare.com^
 ||cloudflare-dns.com^
 ||23-94-60-240-host.colocrossing.com^
 ||66-209-48-10.atrianetworks.net^
