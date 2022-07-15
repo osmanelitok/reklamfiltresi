@@ -34,6 +34,7 @@
 ||bos.speakeasy.net^
 ||bvrt-dns-trial.beaverton.or.bverton.comcast.net^
 ||c.resolvers.level3.net^
+||cleanbrowsing.org^
 ||cdn-ec-chi-015-03.chicago201.il.chicago.comcast.net^
 ||d.resolvers.level3.net^
 ||den.speakeasy.net^
@@ -41,7 +42,6 @@
 ||dns.chi1.speakeasy.net^
 ||dns.dfw1.speakeasy.net^
 ||dns.directcom.com^
-||dns.cleanbrowsing.org^
 ||dns.google^
 ||dns.lax1.speakeasy.net^
 ||dns.nyc1.speakeasy.net^
