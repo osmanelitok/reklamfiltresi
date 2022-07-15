@@ -20,7 +20,7 @@
 
 @@||nextdns.io^
 @@||dns.adguard.com^
-
+@@||dns.msftncsi.com^
 
 ||cloudflare-dns.com^
 ||a.nel.cloudflare.com^
