@@ -18,7 +18,9 @@
 /dns*.*/
 /*dns.*/
 
+
 @@||nextdns.io^
+@@||b.cdnst.net^
 @@||dns.adguard.com^
 @@||dns.msftncsi.com^
 
