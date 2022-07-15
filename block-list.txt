@@ -23,7 +23,6 @@
 @@||dns.msftncsi.com^
 
 ||cloudflare-dns.com^
-||a.nel.cloudflare.com^
 ||23-94-60-240-host.colocrossing.com^
 ||66-209-48-10.atrianetworks.net^
 ||a.resolvers.level3.net^
