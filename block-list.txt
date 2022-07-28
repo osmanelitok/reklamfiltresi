@@ -5,7 +5,7 @@
 # ------------------------------------------------------------------------
 # Lisans: GNU GENERAL PUBLIC LICENSE
 # ------------------------------------------------------------------------
-# Son Güncelleme: 15-07-2022
+# Son Güncelleme: 28-07-2022
 # ------------------------------------------------------------------------
 
 
@@ -25,103 +25,6 @@
 #@@||dns.adguard.com^
 #@@||dns.msftncsi.com^
 
-
-||a.nel.cloudflare.com^
-||cloudflare-dns.com^
-||23-94-60-240-host.colocrossing.com^
-||66-209-48-10.atrianetworks.net^
-||a.resolvers.level3.net^
-||b.resolvers.Level3.net^
-||bos.speakeasy.net^
-||bvrt-dns-trial.beaverton.or.bverton.comcast.net^
-||c.resolvers.level3.net^
-||doh.cleanbrowsing.org^
-||cdn.cleanbrowsing.org^
-||dns.cleanbrowsing.org^
-||cdn-ec-chi-015-03.chicago201.il.chicago.comcast.net^
-||d.resolvers.level3.net^
-||den.speakeasy.net^
-||dns.atl1.speakeasy.net^
-||dns.chi1.speakeasy.net^
-||dns.dfw1.speakeasy.net^
-||dns.directcom.com^
-||dns.google^
-||dns.lax1.speakeasy.net^
-||dns.nyc1.speakeasy.net^
-||dns.quad9.net^
-||dns.sea1.speakeasy.net^
-||dns.sfo1.speakeasy.net^
-||dns.wdc1.speakeasy.net^
-||dns.yandex.ru^
-||dns1.safedns.com^
-||dns1.van.radiant.net^
-||dns10.quad9.net^
-||dns11.quad9.net^
-||dns2.295.ca^
-||dns2.safedns.com^
-||dns3.dejazzd.com^
-||dns9.quad9.net^
-||e.resolvers.level3.net^
-||f.resolvers.level3.net^
-||ns1.dc.cox.net^
-||ns1.hr.cox.net^
-||ns1.lon.pnap.net^
-||ns1.lv.cox.net^
-||ns1.no.cox.net^
-||ns1.oc.cox.net^
-||ns1.ok.cox.net^
-||ns1.om.cox.net^
-||ns1.ph.cox.net^
-||ns1.recursive.dnsbycomodo.com^
-||ns1.ri.cox.net^
-||ns1.sd.cox.net^
-||ns1.sprintlink.net^
-||ns1.wavecable.com^
-||ns2.dc.cox.net^
-||ns2.hr.cox.net^
-||ns2.lv.cox.net^
-||ns2.no.cox.net^
-||ns2.oc.cox.net^
-||ns2.ok.cox.net^
-||ns2.om.cox.net^
-||ns2.ph.cox.net^
-||ns2.recursive.dnsbycomodo.com^
-||ns2.ri.cox.net^
-||ns2.sd.cox.net^
-||ns2.sprintlink.net^
-||ns2.wavecable.com^
-||ns3.sprintlink.net^
-||ns-cache1.oleane.net^
-||ns-legacy.speakeasy.net^
-||one.one.one.one^
-||outlook.enocta.com^
-||phl.speakeasy.net^
-||rdns.dynect.net^
-||rdns1.ultradns.net^
-||rdns2.ultradns.net^
-||rec1pubns1.ultradns.net^
-||rec1pubns2.ultradns.net^
-||resolver.centurylink.net^
-||resolver.qwest.net^
-||resolver1.freedns.zone.powered.by.virtexxa.com^
-||resolver1.level3.net^
-||resolver1.opendns.com^
-||resolver1-fs.opendns.com^
-||resolver2.freedns.zone.powered.by.virtexxa.com^
-||resolver2.level3.net^
-||resolver2.opendns.com^
-||resolver2-fs.opendns.com^
-||resolver3.opendns.com^
-||resolver4.opendns.com^
-||safe.dns.yandex.ru^
-||secondary.safe.dns.yandex.ru^
-||security-filter-dns.cleanbrowsing.org^
-||security-filter-dns2.cleanbrowsing.org^
-||server-46.45.187.184.as42926.net^
-||vpn.vipre.com^
-||vsg04-d1stonemtn-ga-atlanta.vsg.comcast.net^
-||x.ns.gin.ntt.net^
-||y.ns.gin.ntt.net^
 
 
 !
@@ -145,7 +48,6 @@
 @@||appcast.io^
 @@||adjust.com^
 @@||rdrtr.com^
-@@||hepsiburada.com^
 
 
 
