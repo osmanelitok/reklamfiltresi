@@ -49,5 +49,9 @@
 @@||adjust.com^
 @@||rdrtr.com^
 @@||googleadservices.com^
+@@||ad.doubleclick.net^
+@@||adservice.google.com.tr^
 @@||change.org^
+
+
 
