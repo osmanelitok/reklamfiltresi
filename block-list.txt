@@ -9,36 +9,6 @@
 # ------------------------------------------------------------------------
 
 
-
-!
-! Çeşitli reklamlar için atlatma yöntemi adresleri
-!
-
-#/dns.*/
-#/dns*.*/
-#/*dns.*/
-
-
-#@@||akadns.net^
-#@@||nextdns.io^
-#@@||b.cdnst.net^
-#@@||dns.adguard.com^
-#@@||dns.msftncsi.com^
-
-
-
-!
-! URL içinde bulunan kelimeleri engeller
-!
-
-#/telemetry.*/
-#/telemetry*.*/
-#/*telemetry.*/
-#/adservice.*/
-#/adservice*.*/
-#/*adservice.*/
-
-
 !
 ! İzin verilenler
 !
@@ -48,10 +18,3 @@
 @@||appcast.io^
 @@||adjust.com^
 @@||rdrtr.com^
-@@||googleadservices.com^
-@@||ad.doubleclick.net^
-@@||adservice.google.com.tr^
-@@||change.org^
-
-
-
