@@ -18,3 +18,4 @@
 @@||appcast.io^
 @@||adjust.com^
 @@||rdrtr.com^
+@@||clicks.h.hepsiburada.com^
