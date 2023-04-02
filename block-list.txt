@@ -7,7 +7,7 @@
 # -----------------------------------------------------------------------------
 # Son Güncelleme: 07-09-2022
 # -----------------------------------------------------------------------------
-# NOT: Bazı adresler reklam engellemez, boşuna kimseye zarar vermeye gerek yok.
+# NOT: Bazı URL ler reklam engellemez, en azından tıklama ilgili reklama gitsin !
 # -----------------------------------------------------------------------------
 # @@||^
 
