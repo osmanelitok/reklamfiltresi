@@ -24,3 +24,5 @@
 @@||appmetrica.yandex.com^
 @@||googleadservices.com^
 @@||ad.doubleclick.net^
+@@||redirect.appmetrica.yandex.com^
+@@||app.appsflyer.com^
