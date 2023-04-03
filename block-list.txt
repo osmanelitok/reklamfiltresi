@@ -27,3 +27,8 @@
 @@||redirect.appmetrica.yandex.com^
 @@||app.appsflyer.com^
 @@||app-measurement.com^
+
+
+!
+! Engellenenler
+!
