@@ -1,5 +1,5 @@
 
-# Osman Elitok Türkiye için reklam engelleme listesi
+# Osman Elitok Türkiye için reklam engelleme - izin verme URL listesi
 # -----------------------------------------------------------------------------
 # Anasayfa: https://github.com/osmanelitok/reklam
 # -----------------------------------------------------------------------------
