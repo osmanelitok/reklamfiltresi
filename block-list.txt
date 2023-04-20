@@ -24,7 +24,6 @@
 @@||appmetrica.yandex.com^
 @@||googleadservices.com^
 @@||ad.doubleclick.net^
-@@||redirect.appmetrica.yandex.com^
 @@||app.appsflyer.com^
 @@||app-measurement.com^
 
@@ -40,7 +39,6 @@
 ||analytics-ingress-global.bitmovin.com^
 ||disploot.com^
 ||advertising.a2z.com^
-||app.tr.adjust.com^
 ||app.adjust.world^
 ||app.adjust.net.in^
 ||0638.info^
@@ -77,7 +75,6 @@
 ||ad.dline.com.tr^
 ||ad.doganburda.com^
 ||ad.donanimhaber.com^
-||ad.doubleclick.net^
 ||ad.eglenced.com^
 ||ad.emlakeki.com^
 ||ad.gt^
@@ -372,7 +369,6 @@
 ||app-analytics-v2.snapchat.com^
 ||app-analytics.snapchat.com^
 ||app-measurement.com^
-||app.adjust.com^
 ||app.gelirartisi.com^
 ||appboy.com^
 ||appengage-video.sponsorpay.com^
@@ -943,7 +939,6 @@
 ||r.reklam5.com^
 ||r.tooplay.com^
 ||rainstar.gen.tf^
-||rdrtr.com^
 ||reali.st^
 ||realist.gen.tr^
 ||rebrand.ly^
