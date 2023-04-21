@@ -5,7 +5,4 @@ Aşağıdaki filtrelere ek olarak (sadece bazı adreslere izin verme amaçlı) k
 
 Reklam Filtresi | https://raw.githubusercontent.com/osmanelitok/reklamfiltresi/main/block-list.txt
 
-
-AdGuard DNS filter | https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-
 AdGuard Turkish filter | https://adguardteam.github.io/HostlistsRegistry/assets/filter_26.txt
