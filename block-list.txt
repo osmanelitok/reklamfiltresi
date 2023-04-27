@@ -28,7 +28,6 @@
 @@||app.appsflyer.com^
 @@||app-measurement.com^
 @@||browser.pipe.aria.microsoft.com^
-@@||adservice.google.com.tr^
 
 
 !
