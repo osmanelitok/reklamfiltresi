@@ -21,10 +21,6 @@
 @@||adjust.com^
 @@||dit.whatsapp.net^
 @@||rdrtr.com^
-@@||clicks.h.hepsiburada.com^
-@@||appmetrica.yandex.com^
-@@||googleadservices.com^
-@@||ad.doubleclick.net^
 @@||app.appsflyer.com^
 @@||app-measurement.com^
 @@||pipe.aria.microsoft.com^
@@ -35,8 +31,5 @@
 !
 
 
-||*.cz^
-||anlinkspots.com^
-||lasuitedugrandpan.fr^
 
 
