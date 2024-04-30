@@ -19,11 +19,9 @@
 @@||spgo.io^
 @@||appcast.io^
 @@||adjust.com^
-@@||dit.whatsapp.net^
 @@||rdrtr.com^
 @@||app.appsflyer.com^
-@@||app-measurement.com^
-@@||pipe.aria.microsoft.com^
+
 
 
 !
