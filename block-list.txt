@@ -28,6 +28,8 @@
 ! Engellenenler
 !
 
+||ampproject.org^
+||amp.dev^
 
 
 
